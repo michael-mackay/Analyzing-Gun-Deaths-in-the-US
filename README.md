@@ -1,2 +1,4 @@
-# Analyzing-Gun-Deaths-in-the-US
-Exploring trends in gun death data of the United States
+# Data-Analysis-Data-Sceince-Learning-Projects
+
+Smaller scale projects undertaken while learning Python and other tools to practice
+and demonstrate skills in data analysis and data science.
